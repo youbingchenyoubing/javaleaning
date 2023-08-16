@@ -9,8 +9,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 import javax.annotation.Resource;
 import java.math.BigDecimal;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 /**
  * @author Mr_chen
  * @date 2023/1/30
